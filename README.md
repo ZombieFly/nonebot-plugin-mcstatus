@@ -1,3 +1,4 @@
+### 本项目已独立于原仓库，移动至[nb-mcsc](https://github.com/ZombieFly/nb-mcsc)
 ### 本仓库Fork自[Nonebot Plugin MCStatus](https://github.com/nonepkg/nonebot-plugin-mcstatus)
 
 基于 [nonebot2](https://github.com/nonebot/nonebot2) 和 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 的 Minecraft 服务器状态查询插件
